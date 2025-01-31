@@ -1,4 +1,13 @@
-# Guia Básica de configuración de Git en Español
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="git.png" />
+    <img src="git.png" alt="Descripción" width="300">
+  </picture>
+</p>
+
+<h1 align="center">Guía Básica de configuración de Git en Español</h1>
+
+
 
 ## Configurar Git
 1. Descargar Git https://git-scm.com/downloads 

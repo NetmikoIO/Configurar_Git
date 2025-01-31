@@ -7,6 +7,16 @@
 
 <h1 align="center">Guía Básica de configuración de Git en Español</h1>
 
+## Índice
+
+1. [Paso 1. Descarga y configuración de Git](#paso-1-descarga-y-configuración-de-git)
+2. [Paso 2. Configura tu repositorio Git](#paso-2-configura-tu-repositorio-git)
+3. [Opcional. Creación de SSH](#opcional-creación-de-ssh)
+4. [Paso 3. Crea un repositorio en GitHub.com](#paso-3-crea-un-repositorio-en-githubcom)
+5. [Paso 4. Conectar tu repositorio local con el repositorio remoto en GitHub](#paso-4-conectar-tu-repositorio-local-con-el-repositorio-remoto-en-github)
+6. [Paso 5. Subir los archivos a GitHub](#paso-5-subir-los-archivos-a-github)
+7. [Paso 6. Verificar en GitHub](#paso-6-verificar-en-github)
+
 ## PASO 1. Descarga y configuración de Git
 #### 1.1 Descargar Git https://git-scm.com/downloads 
 

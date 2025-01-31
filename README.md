@@ -1,4 +1,12 @@
-# Configurar Git
+# Guia Básica de configuración de Git en Español
+
+<img src="git.png" alt="Git Logo" width="300">
+
+
+
+
+
+## Configurar Git
 1. Descargar Git https://git-scm.com/downloads 
 2. En _*Consola de comandos*_ o _*Git Bash*_ para verificar que git esta instalado escriba:
 ```shell
@@ -27,3 +35,5 @@ git config --list
 user.name=Nombre usuario
 user.email=correo@email.com
 ```
+
+## Configura tu repositorio Git

@@ -200,6 +200,10 @@ Invito a cualquiera que quiera participar a hacer `fork` y participar en el proy
 
 [Ir al Índice](#índice)
 
+# Créditos
+
+Gracias a [GitHub](https://github.com) por proporcionar una plataforma excelente para gestionar proyectos de código.<br> Para comenzar con GitHub, visita su [guía oficial de inicio](https://docs.github.com/en/get-started/quickstart).
+
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/git.png" />

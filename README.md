@@ -200,6 +200,13 @@ Invito a cualquiera que quiera participar a hacer `fork` y participar en el proy
 
 [Ir al Índice](#índice)
 
+## Agradecimientos
+
+Quiero agradecer a **GitHub** por proporcionar una plataforma increíble para la gestión de código, colaboración y control de versiones. Gracias a sus herramientas, desarrolladores de todo el mundo pueden trabajar en proyectos de código abierto y privados de manera eficiente.<br>Creditos de esta obra para Github.
+
+Para más información sobre cómo empezar con GitHub, visita:  
+[Guía oficial de GitHub](https://docs.github.com/en/get-started)
+
 <p align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/git.png" />

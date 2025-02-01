@@ -1,9 +1,10 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="git.png" />
-    <img src="git.png" alt="Descripción" width="300">
+    <source media="(max-width: 600px)" srcset="assets/git.png" />
+    <img src="assets/git.png" alt="Descripción" width="300">
   </picture>
 </p>
+
 
 <h1 align="center">Guía Básica de configuración de Git en Español</h1>
 
@@ -201,7 +202,8 @@ Invito a cualquiera que quiera participar a hacer `fork` y participar en el proy
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="git.png" />
-    <img src="git.png" alt="Descripción" width="300">
+    <source media="(max-width: 600px)" srcset="assets/git.png" />
+    <img src="assets/git.png" alt="Descripción" width="300">
   </picture>
 </p>
+
